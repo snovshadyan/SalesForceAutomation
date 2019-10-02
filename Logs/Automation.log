@@ -1,0 +1,11 @@
+2019-10-01 20:26:06.840 [main] INFO  Base.TestBase - Starting LimeLight test Tue Oct 01 20:26:06 EDT 2019
+
+2019-10-01 20:26:10.465 [main] INFO  Base.TestBase - Launching Chrome browser
+
+2019-10-01 20:26:15.486 [main] INFO  TestCases.LoginPageTest - Testing TitleTest
+2019-10-01 20:26:15.504 [main] INFO  TestCases.LoginPageTest - Test: TitleTest == Passed
+2019-10-01 20:26:15.509 [main] INFO  TestCases.LoginPageTest - Testing Test_Logo
+2019-10-01 20:26:15.773 [main] INFO  TestCases.LoginPageTest - Test: Test_Logo == Passed
+2019-10-01 20:26:16.498 [main] INFO  Base.TestBase - Finishing LimeLight test Tue Oct 01 20:26:16 EDT 2019
+
+2019-10-01 20:26:16.499 [main] INFO  Base.TestBase - Test execution took 9 Seconds
