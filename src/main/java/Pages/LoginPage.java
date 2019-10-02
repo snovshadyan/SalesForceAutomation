@@ -6,13 +6,56 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-
+import javax.rmi.CORBA.Util;
 
 
 public class LoginPage extends TestBase{
 
 @FindBy(xpath="//img[@src='/resources2/images/salesforce-header-logo.png']")
     WebElement Login_Logo;
+
+@FindBy(xpath="//a[@href='/platform/overview']")
+    WebElement ProductsTab;
+
+@FindBy(xpath = "//a[@href='/platform']")
+    WebElement Platform;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -26,8 +69,19 @@ public class LoginPage extends TestBase{
         return Login_Logo.isDisplayed();
     }
 
+    public boolean verify_ProductsTab() throws Exception{
+        Utils.HEY(ProductsTab);
+        return ProductsTab.isDisplayed();
+    }
 
 
+    public boolean verify_ProductsItems1() throws Exception{
+
+        Utils.HoverOver(ProductsTab);
+        Utils.HEY(Platform);
+        return Platform.isDisplayed();
+
+    }
 
 
 

@@ -43,9 +43,17 @@ public class LoginPageTest extends TestBase{
         Assert.assertTrue(loginpage.verify_Logo());
     }
 
+    @Test(priority=3)
+    public void Test_ProductsTab() throws Exception{
 
+        Assert.assertTrue(loginpage.verify_ProductsTab());
+    }
 
+    @Test(priority=3)
+    public void Test_ProductsItem1() throws Exception{
 
+        Assert.assertTrue(loginpage.verify_ProductsItems1());
+    }
 
 
 

@@ -70,6 +70,12 @@ public class Utils extends TestBase {
         performAct.sendKeys(elem, Text).build().perform();
     }
 
+    public static void HoverOver(WebElement element) throws Exception {
+        Actions builder = new Actions(driver);
+        Actions hoverOverRegistrar = builder.moveToElement(element);
+        hoverOverRegistrar.perform();
+            HEY(element);
+    }
 
 
 

@@ -1,11 +1,15 @@
-2019-10-01 20:26:06.840 [main] INFO  Base.TestBase - Starting LimeLight test Tue Oct 01 20:26:06 EDT 2019
+2019-10-01 20:59:46.013 [main] INFO  Base.TestBase - Starting SalesForceAutomation test Tue Oct 01 20:59:46 EDT 2019
 
-2019-10-01 20:26:10.465 [main] INFO  Base.TestBase - Launching Chrome browser
+2019-10-01 20:59:52.482 [main] INFO  Base.TestBase - Launching Chrome browser
 
-2019-10-01 20:26:15.486 [main] INFO  TestCases.LoginPageTest - Testing TitleTest
-2019-10-01 20:26:15.504 [main] INFO  TestCases.LoginPageTest - Test: TitleTest == Passed
-2019-10-01 20:26:15.509 [main] INFO  TestCases.LoginPageTest - Testing Test_Logo
-2019-10-01 20:26:15.773 [main] INFO  TestCases.LoginPageTest - Test: Test_Logo == Passed
-2019-10-01 20:26:16.498 [main] INFO  Base.TestBase - Finishing LimeLight test Tue Oct 01 20:26:16 EDT 2019
+2019-10-01 21:00:02.892 [main] INFO  TestCases.LoginPageTest - Testing Test_Title
+2019-10-01 21:00:02.995 [main] INFO  TestCases.LoginPageTest - Test: Test_Title == Passed
+2019-10-01 21:00:03.000 [main] INFO  TestCases.LoginPageTest - Testing Test_Logo
+2019-10-01 21:00:03.437 [main] INFO  TestCases.LoginPageTest - Test: Test_Logo == Passed
+2019-10-01 21:00:03.439 [main] INFO  TestCases.LoginPageTest - Testing Test_ProductsItem1
+2019-10-01 21:00:04.396 [main] INFO  TestCases.LoginPageTest - Test: Test_ProductsItem1 == Passed
+2019-10-01 21:00:04.398 [main] INFO  TestCases.LoginPageTest - Testing Test_ProductsTab
+2019-10-01 21:00:04.661 [main] INFO  TestCases.LoginPageTest - Test: Test_ProductsTab == Passed
+2019-10-01 21:00:06.111 [main] INFO  Base.TestBase - Finishing LimeLight test Tue Oct 01 21:00:06 EDT 2019
 
-2019-10-01 20:26:16.499 [main] INFO  Base.TestBase - Test execution took 9 Seconds
+2019-10-01 21:00:06.112 [main] INFO  Base.TestBase - Test execution took 20 Seconds
