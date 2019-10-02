@@ -1,15 +1,131 @@
-2019-10-01 20:59:46.013 [main] INFO  Base.TestBase - Starting SalesForceAutomation test Tue Oct 01 20:59:46 EDT 2019
+2019-10-02 18:53:34.913 [main] INFO  Base.TestBase - Starting SalesForceAutomation test Wed Oct 02 18:53:34 EDT 2019
 
-2019-10-01 20:59:52.482 [main] INFO  Base.TestBase - Launching Chrome browser
+2019-10-02 18:53:39.280 [main] INFO  Base.TestBase - Launching Chrome browser
 
-2019-10-01 21:00:02.892 [main] INFO  TestCases.LoginPageTest - Testing Test_Title
-2019-10-01 21:00:02.995 [main] INFO  TestCases.LoginPageTest - Test: Test_Title == Passed
-2019-10-01 21:00:03.000 [main] INFO  TestCases.LoginPageTest - Testing Test_Logo
-2019-10-01 21:00:03.437 [main] INFO  TestCases.LoginPageTest - Test: Test_Logo == Passed
-2019-10-01 21:00:03.439 [main] INFO  TestCases.LoginPageTest - Testing Test_ProductsItem1
-2019-10-01 21:00:04.396 [main] INFO  TestCases.LoginPageTest - Test: Test_ProductsItem1 == Passed
-2019-10-01 21:00:04.398 [main] INFO  TestCases.LoginPageTest - Testing Test_ProductsTab
-2019-10-01 21:00:04.661 [main] INFO  TestCases.LoginPageTest - Test: Test_ProductsTab == Passed
-2019-10-01 21:00:06.111 [main] INFO  Base.TestBase - Finishing LimeLight test Tue Oct 01 21:00:06 EDT 2019
+2019-10-02 18:53:46.278 [main] INFO  TestCases.LoginPageTest - Testing Test_Title
+2019-10-02 18:53:46.332 [main] INFO  TestCases.LoginPageTest - Test: Test_Title == Passed
+2019-10-02 18:53:46.344 [main] INFO  TestCases.LoginPageTest - Testing Test_Logo
+2019-10-02 18:53:46.828 [main] INFO  TestCases.LoginPageTest - Test: Test_Logo == Passed
+2019-10-02 18:53:46.841 [main] INFO  TestCases.LoginPageTest - Testing Test_ProductsTab
+2019-10-02 18:53:47.147 [main] INFO  TestCases.LoginPageTest - Test: Test_ProductsTab == Passed
+2019-10-02 18:53:47.153 [main] INFO  TestCases.LoginPageTest - Testing Test_ProductsItem1
+2019-10-02 18:53:48.173 [main] INFO  TestCases.LoginPageTest - Test: Test_ProductsItem1 == Passed
+2019-10-02 18:53:48.179 [main] INFO  TestCases.LoginPageTest - Testing Test_ProductsItem2
+2019-10-02 18:53:48.417 [main] INFO  TestCases.LoginPageTest - Test: Test_ProductsItem2 == Passed
+2019-10-02 18:53:48.421 [main] INFO  TestCases.LoginPageTest - Testing Test_ProductsItem3
+2019-10-02 18:53:48.657 [main] INFO  TestCases.LoginPageTest - Test: Test_ProductsItem3 == Passed
+2019-10-02 18:53:48.663 [main] INFO  TestCases.LoginPageTest - Testing Test_ProductsItem4
+2019-10-02 18:53:48.938 [main] INFO  TestCases.LoginPageTest - Test: Test_ProductsItem4 == Passed
+2019-10-02 18:53:48.942 [main] INFO  TestCases.LoginPageTest - Testing Test_ProductsItem5
+2019-10-02 18:53:49.211 [main] INFO  TestCases.LoginPageTest - Test: Test_ProductsItem5 == Passed
+2019-10-02 18:53:49.216 [main] INFO  TestCases.LoginPageTest - Testing Test_ProductsItem6
+2019-10-02 18:53:49.516 [main] INFO  TestCases.LoginPageTest - Test: Test_ProductsItem6 == Passed
+2019-10-02 18:53:49.519 [main] INFO  TestCases.LoginPageTest - Testing Test_ProductsItem7
+2019-10-02 18:53:49.714 [main] INFO  TestCases.LoginPageTest - Test: Test_ProductsItem7 == Passed
+2019-10-02 18:53:49.717 [main] INFO  TestCases.LoginPageTest - Testing Test_ProductsItem8
+2019-10-02 18:53:49.925 [main] INFO  TestCases.LoginPageTest - Test: Test_ProductsItem8 == Passed
+2019-10-02 18:53:49.929 [main] INFO  TestCases.LoginPageTest - Testing Test_ProductsItem9
+2019-10-02 18:53:50.151 [main] INFO  TestCases.LoginPageTest - Test: Test_ProductsItem9 == Passed
+2019-10-02 18:53:50.157 [main] INFO  TestCases.LoginPageTest - Testing Test_ProductsItem10
+2019-10-02 18:53:50.397 [main] INFO  TestCases.LoginPageTest - Test: Test_ProductsItem10 == Passed
+2019-10-02 18:53:50.401 [main] INFO  TestCases.LoginPageTest - Testing Test_ProductsItem11
+2019-10-02 18:53:50.654 [main] INFO  TestCases.LoginPageTest - Test: Test_ProductsItem11 == Passed
+2019-10-02 18:53:50.657 [main] INFO  TestCases.LoginPageTest - Testing Test_ProductsItem12
+2019-10-02 18:53:50.870 [main] INFO  TestCases.LoginPageTest - Test: Test_ProductsItem12 == Passed
+2019-10-02 18:53:50.873 [main] INFO  TestCases.LoginPageTest - Testing Test_ProductsItem13
+2019-10-02 18:53:51.091 [main] INFO  TestCases.LoginPageTest - Test: Test_ProductsItem13 == Passed
+2019-10-02 18:53:51.093 [main] INFO  TestCases.LoginPageTest - Testing Test_ProductsItem14
+2019-10-02 18:53:51.300 [main] INFO  TestCases.LoginPageTest - Test: Test_ProductsItem14 == Passed
+2019-10-02 18:53:51.303 [main] INFO  TestCases.LoginPageTest - Testing Test_ProductsItem15
+2019-10-02 18:53:51.510 [main] INFO  TestCases.LoginPageTest - Test: Test_ProductsItem15 == Passed
+2019-10-02 18:53:51.513 [main] INFO  TestCases.LoginPageTest - Testing Test_ProductsItem16
+2019-10-02 18:53:51.751 [main] INFO  TestCases.LoginPageTest - Test: Test_ProductsItem16 == Passed
+2019-10-02 18:53:51.755 [main] INFO  TestCases.LoginPageTest - Testing Test_ResourcesTab
+2019-10-02 18:53:52.459 [main] INFO  TestCases.LoginPageTest - Test: Test_ResourcesTab == Passed
+2019-10-02 18:53:52.462 [main] INFO  TestCases.LoginPageTest - Testing Test_ResourcesItem1
+2019-10-02 18:53:52.730 [main] INFO  TestCases.LoginPageTest - Test: Test_ResourcesItem1 == Passed
+2019-10-02 18:53:52.734 [main] INFO  TestCases.LoginPageTest - Testing Test_ResourcesItem2
+2019-10-02 18:53:52.961 [main] INFO  TestCases.LoginPageTest - Test: Test_ResourcesItem2 == Passed
+2019-10-02 18:53:52.964 [main] INFO  TestCases.LoginPageTest - Testing Test_ResourcesItem3
+2019-10-02 18:53:53.234 [main] INFO  TestCases.LoginPageTest - Test: Test_ResourcesItem3 == Passed
+2019-10-02 18:53:53.237 [main] INFO  TestCases.LoginPageTest - Testing Test_ResourcesItem4
+2019-10-02 18:53:53.516 [main] INFO  TestCases.LoginPageTest - Test: Test_ResourcesItem4 == Passed
+2019-10-02 18:53:53.519 [main] INFO  TestCases.LoginPageTest - Testing Test_ResourcesItem5
+2019-10-02 18:53:53.753 [main] INFO  TestCases.LoginPageTest - Test: Test_ResourcesItem5 == Passed
+2019-10-02 18:53:53.757 [main] INFO  TestCases.LoginPageTest - Testing Test_ResourcesItem6
+2019-10-02 18:53:54.012 [main] INFO  TestCases.LoginPageTest - Test: Test_ResourcesItem6 == Passed
+2019-10-02 18:53:54.015 [main] INFO  TestCases.LoginPageTest - Testing Test_ResourcesItem7
+2019-10-02 18:53:54.267 [main] INFO  TestCases.LoginPageTest - Test: Test_ResourcesItem7 == Passed
+2019-10-02 18:53:54.270 [main] INFO  TestCases.LoginPageTest - Testing Test_ResourcesItem8
+2019-10-02 18:53:54.485 [main] INFO  TestCases.LoginPageTest - Test: Test_ResourcesItem8 == Passed
+2019-10-02 18:53:54.488 [main] INFO  TestCases.LoginPageTest - Testing Test_ResourcesItem9
+2019-10-02 18:53:54.731 [main] INFO  TestCases.LoginPageTest - Test: Test_ResourcesItem9 == Passed
+2019-10-02 18:53:54.734 [main] INFO  TestCases.LoginPageTest - Testing Test_ResourcesItem10
+2019-10-02 18:53:54.979 [main] INFO  TestCases.LoginPageTest - Test: Test_ResourcesItem10 == Passed
+2019-10-02 18:53:54.981 [main] INFO  TestCases.LoginPageTest - Testing Test_ResourcesItem11
+2019-10-02 18:53:55.206 [main] INFO  TestCases.LoginPageTest - Test: Test_ResourcesItem11 == Passed
+2019-10-02 18:53:55.211 [main] INFO  TestCases.LoginPageTest - Testing Test_ResourcesItem12
+2019-10-02 18:53:55.487 [main] INFO  TestCases.LoginPageTest - Test: Test_ResourcesItem12 == Passed
+2019-10-02 18:53:55.490 [main] INFO  TestCases.LoginPageTest - Testing Test_ResourcesItem13
+2019-10-02 18:53:55.702 [main] INFO  TestCases.LoginPageTest - Test: Test_ResourcesItem13 == Passed
+2019-10-02 18:53:55.705 [main] INFO  TestCases.LoginPageTest - Testing Test_ResourcesItem14
+2019-10-02 18:53:55.946 [main] INFO  TestCases.LoginPageTest - Test: Test_ResourcesItem14 == Passed
+2019-10-02 18:53:55.949 [main] INFO  TestCases.LoginPageTest - Testing Test_ResourcesItem15
+2019-10-02 18:53:56.170 [main] INFO  TestCases.LoginPageTest - Test: Test_ResourcesItem15 == Passed
+2019-10-02 18:53:56.173 [main] INFO  TestCases.LoginPageTest - Testing Test_ResourcesItem16
+2019-10-02 18:53:56.410 [main] INFO  TestCases.LoginPageTest - Test: Test_ResourcesItem16 == Passed
+2019-10-02 18:53:56.413 [main] INFO  TestCases.LoginPageTest - Testing Test_ResourcesItem17
+2019-10-02 18:53:56.641 [main] INFO  TestCases.LoginPageTest - Test: Test_ResourcesItem17 == Passed
+2019-10-02 18:53:56.644 [main] INFO  TestCases.LoginPageTest - Testing Test_ResourcesItem18
+2019-10-02 18:53:56.869 [main] INFO  TestCases.LoginPageTest - Test: Test_ResourcesItem18 == Passed
+2019-10-02 18:53:56.872 [main] INFO  TestCases.LoginPageTest - Testing Test_ResourcesItem20
+2019-10-02 18:53:57.114 [main] INFO  TestCases.LoginPageTest - Test: Test_ResourcesItem20 == Passed
+2019-10-02 18:53:57.117 [main] INFO  TestCases.LoginPageTest - Testing Test_ResourcesItem21
+2019-10-02 18:53:57.342 [main] INFO  TestCases.LoginPageTest - Test: Test_ResourcesItem21 == Passed
+2019-10-02 18:53:57.345 [main] INFO  TestCases.LoginPageTest - Testing Test_ResourcesItem22
+2019-10-02 18:53:57.565 [main] INFO  TestCases.LoginPageTest - Test: Test_ResourcesItem22 == Passed
+2019-10-02 18:53:57.568 [main] INFO  TestCases.LoginPageTest - Testing Test_ResourcesItem23
+2019-10-02 18:53:57.819 [main] INFO  TestCases.LoginPageTest - Test: Test_ResourcesItem23 == Passed
+2019-10-02 18:53:57.822 [main] INFO  TestCases.LoginPageTest - Testing Test_ResourcesItem24
+2019-10-02 18:53:58.040 [main] INFO  TestCases.LoginPageTest - Test: Test_ResourcesItem24 == Passed
+2019-10-02 18:53:58.042 [main] INFO  TestCases.LoginPageTest - Testing Test_ResourcesItem25
+2019-10-02 18:53:58.255 [main] INFO  TestCases.LoginPageTest - Test: Test_ResourcesItem25 == Passed
+2019-10-02 18:53:58.258 [main] INFO  TestCases.LoginPageTest - Testing Test_ResourcesItem26
+2019-10-02 18:53:58.503 [main] INFO  TestCases.LoginPageTest - Test: Test_ResourcesItem26 == Passed
+2019-10-02 18:53:58.506 [main] INFO  TestCases.LoginPageTest - Testing Test_ResourcesItem27
+2019-10-02 18:53:58.777 [main] INFO  TestCases.LoginPageTest - Test: Test_ResourcesItem27 == Passed
+2019-10-02 18:53:58.780 [main] INFO  TestCases.LoginPageTest - Testing Test_ResourcesItem28
+2019-10-02 18:53:59.069 [main] INFO  TestCases.LoginPageTest - Test: Test_ResourcesItem28 == Passed
+2019-10-02 18:53:59.073 [main] INFO  TestCases.LoginPageTest - Testing Test_ResourcesItem29
+2019-10-02 18:53:59.337 [main] INFO  TestCases.LoginPageTest - Test: Test_ResourcesItem29 == Passed
+2019-10-02 18:53:59.340 [main] INFO  TestCases.LoginPageTest - Testing Test_ResourcesItem30
+2019-10-02 18:53:59.565 [main] INFO  TestCases.LoginPageTest - Test: Test_ResourcesItem30 == Passed
+2019-10-02 18:53:59.568 [main] INFO  TestCases.LoginPageTest - Testing Test_ResourcesItem31
+2019-10-02 18:53:59.819 [main] INFO  TestCases.LoginPageTest - Test: Test_ResourcesItem31 == Passed
+2019-10-02 18:53:59.822 [main] INFO  TestCases.LoginPageTest - Testing Test_ResourcesItem32
+2019-10-02 18:54:00.042 [main] INFO  TestCases.LoginPageTest - Test: Test_ResourcesItem32 == Passed
+2019-10-02 18:54:00.044 [main] INFO  TestCases.LoginPageTest - Testing Test_ResourcesItem33
+2019-10-02 18:54:00.257 [main] INFO  TestCases.LoginPageTest - Test: Test_ResourcesItem33 == Passed
+2019-10-02 18:54:00.259 [main] INFO  TestCases.LoginPageTest - Testing Test_Community
+2019-10-02 18:54:00.919 [main] INFO  TestCases.LoginPageTest - Test: Test_Community == Passed
+2019-10-02 18:54:00.921 [main] INFO  TestCases.LoginPageTest - Testing Test_CommunityItem1
+2019-10-02 18:54:01.145 [main] INFO  TestCases.LoginPageTest - Test: Test_CommunityItem1 == Passed
+2019-10-02 18:54:01.148 [main] INFO  TestCases.LoginPageTest - Testing Test_CommunityItem2
+2019-10-02 18:54:01.370 [main] INFO  TestCases.LoginPageTest - Test: Test_CommunityItem2 == Passed
+2019-10-02 18:54:01.373 [main] INFO  TestCases.LoginPageTest - Testing Test_CommunityItem3
+2019-10-02 18:54:01.574 [main] INFO  TestCases.LoginPageTest - Test: Test_CommunityItem3 == Passed
+2019-10-02 18:54:01.577 [main] INFO  TestCases.LoginPageTest - Testing Test_CommunityItem5
+2019-10-02 18:54:01.819 [main] INFO  TestCases.LoginPageTest - Test: Test_CommunityItem5 == Passed
+2019-10-02 18:54:01.823 [main] INFO  TestCases.LoginPageTest - Testing Test_CommunityItem6
+2019-10-02 18:54:02.028 [main] INFO  TestCases.LoginPageTest - Test: Test_CommunityItem6 == Passed
+2019-10-02 18:54:02.031 [main] INFO  TestCases.LoginPageTest - Testing Test_SearchBox
+2019-10-02 18:54:02.569 [main] INFO  TestCases.LoginPageTest - Test: Test_SearchBox == Passed
+2019-10-02 18:54:02.572 [main] INFO  TestCases.LoginPageTest - Testing Test_LoginBtn
+2019-10-02 18:54:02.801 [main] INFO  TestCases.LoginPageTest - Test: Test_LoginBtn == Passed
+2019-10-02 18:54:02.804 [main] INFO  TestCases.LoginPageTest - Testing Test_SignUpBtn
+2019-10-02 18:54:03.028 [main] INFO  TestCases.LoginPageTest - Test: Test_SignUpBtn == Passed
+2019-10-02 18:54:03.032 [main] INFO  TestCases.LoginPageTest - Testing Test_RegisterNowBtn
+2019-10-02 18:54:03.335 [main] INFO  TestCases.LoginPageTest - Test: Test_RegisterNowBtn == Passed
+2019-10-02 18:54:04.842 [main] INFO  Base.TestBase - Finishing LimeLight test Wed Oct 02 18:54:04 EDT 2019
 
-2019-10-01 21:00:06.112 [main] INFO  Base.TestBase - Test execution took 20 Seconds
+2019-10-02 18:54:04.842 [main] INFO  Base.TestBase - Test execution took 29 Seconds

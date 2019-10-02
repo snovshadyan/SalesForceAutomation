@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63bac510-9d81-45ac-b527-27ca56f697bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Simon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Simon.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/Automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/Automation.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Utilities/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Utilities/Utils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/TestCases/LoginPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestCases/LoginPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Base/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Base/TestBase.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Utilities/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Utilities/Utils.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/TestCases/LoginPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestCases/LoginPageTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/LimeLight_Extent.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/LimeLight_Extent.html" afterDir="false" />
     </list>
@@ -38,6 +37,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -141,6 +141,14 @@
       <option name="presentableId" value="Default" />
       <updated>1569974679126</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added Test">
+      <created>1569978082698</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569978082698</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,5 +161,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Test" />
   </component>
 </project>
